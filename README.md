@@ -15,13 +15,11 @@
 ```
 pip install pywin32
 ```
-### Clonar código fonte
-
-Se você deseja obter o código fonte do programa em sua máquina local, você pode clonar o repositório usando o seguinte comando no terminal:
+### Clonar programa
+Você pode clonar o repositório usando o seguinte comando no terminal:
 ```
-git clone https://github.com/polarx86/Fastmail/tree/main/fastmail
+git clone https://github.com/polarx86/Fastmail
 ```
-
 ## Como Usar
 1. Execute o programa utilizando o seguinte comando no terminal:
 ```
